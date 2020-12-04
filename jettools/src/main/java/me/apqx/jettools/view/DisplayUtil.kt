@@ -1,4 +1,4 @@
-package me.apqx.libtools.view
+package me.apqx.jettools.view
 
 import android.app.Activity
 import android.content.Context
@@ -12,8 +12,8 @@ import android.view.ViewGroup
 import android.view.WindowManager
 import android.view.inputmethod.InputMethodManager
 import android.widget.EditText
-import me.apqx.libtools.log.LogUtil.d
-import me.apqx.libtools.log.LogUtil.i
+import me.apqx.jettools.log.LogUtil.d
+import me.apqx.jettools.log.LogUtil.i
 
 object DisplayUtil {
     /**

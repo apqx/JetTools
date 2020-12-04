@@ -1,8 +1,8 @@
-package me.apqx.libtools.file
+package me.apqx.jettools.file
 
 import android.content.Context
 import android.content.pm.PackageManager
-import me.apqx.libtools.log.LogUtil
+import me.apqx.jettools.log.LogUtil
 import java.lang.Exception
 
 /**

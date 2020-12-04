@@ -1,4 +1,4 @@
-package me.apqx.libtools.log
+package me.apqx.jettools.log
 
 import android.util.Log
 import com.google.gson.Gson

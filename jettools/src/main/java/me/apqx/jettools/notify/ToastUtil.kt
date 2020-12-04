@@ -1,4 +1,4 @@
-package me.apqx.libtools.notify
+package me.apqx.jettools.notify
 
 import android.annotation.SuppressLint
 import android.content.Context
